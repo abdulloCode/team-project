@@ -1,0 +1,22 @@
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 60px;
+}
+.footer .svg {
+  width: 100px;
+  height: 56px;
+  align-items: center;
+  display: flex;
+  gap: 40px;
+}
+.footer .svg span {
+  width: 0.5px;
+  height: 67px;
+  border: 2px solid #EEEFF2;
+}
+.footer .svg img {
+  width: 50px;
+  height: 50px;
+}/*# sourceMappingURL=style.css.map */
