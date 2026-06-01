@@ -1,0 +1,59 @@
+header {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  margin: 0px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  margin-left: 11.07px;
+}
+
+header .want h1 {
+  margin: 0px;
+  color: #0B132A;
+  width: 156px;
+  font-family: Rubik;
+  font-weight: 400;
+  font-size: 14.07px;
+  line-height: 19.7px;
+  letter-spacing: 0%;
+}
+
+header .want h1 span {
+  font-family: Rubik;
+  font-weight: 700;
+  font-size: 14.07px;
+  line-height: 19.7px;
+  letter-spacing: 0%;
+}
+
+header .want p {
+  margin: 5.63px 0px 0px 0px;
+  font-family: Rubik;
+  font-weight: 400;
+  font-size: 4.5px;
+  line-height: 8.44px;
+  letter-spacing: 0%;
+  width: 156px;
+}
+
+header .want button {
+  margin-top: 14.07px;
+  background-color: #f53838;
+  border: none;
+  width: 70px;
+  font-family: Rubik;
+  font-weight: 700;
+  font-size: 4.5px;
+  line-height: 7.04px;
+  letter-spacing: 0%;
+  color: #fff;
+  letter-spacing: 0.6px;
+  height: 16px;
+  top: 134.16px;
+  left: 42.21px;
+  border-radius: 2.81px;
+  opacity: 1;
+}
+/*# sourceMappingURL=style.css.map */
